@@ -10,7 +10,7 @@ function Home() {
   return (
     <MainContainer style={{padding: 0}}>
       <Box sx={{padding: 1, backgroundColor: theme.palette.blue.main}}>
-        mamad
+        Home Page
       </Box>
     </MainContainer>
   )
